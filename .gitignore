@@ -1,0 +1,19 @@
+# Ignore Node dependencies
+frontend/node_modules/
+backend/node_modules/
+node_modules/
+
+# Ignore Vite build output
+frontend/dist/
+
+# Maven build output
+backend/target/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Env files
+.env
+.env.*
